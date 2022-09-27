@@ -88,7 +88,7 @@ color: #088178;
   transition: 0.3s ease;
 }
 #hero{
- background-image: url(/Homeimages/img/Artboard\ 1.jpg); 
+ background-image: url(/pickle_website/Homeimages/img/Artboard\ 1.jpg); 
   height: 100vh;
   width: 100%;
   background-size:cover;  
@@ -102,4 +102,8 @@ color: #088178;
 }  
 .txhm{
   color: yellow;
+}
+#Shop-now{
+ background-image: url(/pickle_website/Homeimages/button.png); 
+ 
 }
